@@ -1,0 +1,13 @@
+body {
+    text-align: center;
+    padding: 50px;
+    font-family: Arial, sans-serif;
+}
+
+.heading {
+    background-color: green;
+    padding: 10px;
+    margin: 10px;
+    color: white;
+    cursor: pointer;
+}
